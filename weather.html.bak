@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Weather App</title>
+  <link rel="import" href="C:\Users\Admin\Desktop\test.html">
+ </head>
+ <body>
+  <h2>Make a table based on the value of a drop down menu.</h2>
+<script
+src="C:\Users\Admin\Desktop\weather.js">
+</script>
+<button id="myselect"">
+	Click here to get the data
+</button>
+<canvas id="myChart" style="width:100%;max-width:700px"></canvas>
+<p id="demo"></p>
+
+ </body>
+</html>
